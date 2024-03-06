@@ -30,8 +30,15 @@ npm run dev
 
 ### 其他
 
+![image](https://github.com/Hepengzhu/FastShoping/assets/120250850/5a2b4548-5d46-4714-880e-3401d8cb154a)
+
+![image](https://github.com/Hepengzhu/FastShoping/assets/120250850/636c6580-96e1-4823-9736-f7037e0a05d6)
+
 
 ### 详情页
+![image](https://github.com/Hepengzhu/FastShoping/assets/120250850/f52afcf1-3bd5-4c64-8b84-432711de0ea4)
+
+![image](https://github.com/Hepengzhu/FastShoping/assets/120250850/eec15ffb-ff69-4bdc-b5b4-434c1b75526a)
 
 
 ### Compile and Minify for Production
